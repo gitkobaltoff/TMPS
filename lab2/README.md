@@ -33,7 +33,7 @@ that can be customized to solve a particular
 design problem.They define a common language that helps developer teams
 communicate more efficiently.<br>
 <br>
-In software engineering, the Structural Design Patterns are concerned with how classes and objects are composed
+In software engineering, the **Structural Design Patterns** are concerned with how classes and objects are composed
  to form larger structures.
  Structural class patterns use inheritance to create a hierarchy of classes/abstractions,
  but the structural object patterns use composition which is generally a more flexible alternative to inheritance.<br>
