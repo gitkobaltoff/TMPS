@@ -27,14 +27,13 @@ Some examples of this kind of design patterns are:<br>
 - Factory Method
 - Abstract Factory
 <br>
-<br>
-**Design patterns** are typical solutions to common problems
+Design patterns are typical solutions to common problems
 in software design. Each pattern is like a blueprint
 that can be customized to solve a particular
 design problem.They define a common language that helps developer teams
 communicate more efficiently.<br>
 <br>
-In software engineering, the **Structural Design Patterns** are concerned with how classes and objects are composed
+In software engineering, the Structural Design Patterns are concerned with how classes and objects are composed
  to form larger structures.
  Structural class patterns use inheritance to create a hierarchy of classes/abstractions,
  but the structural object patterns use composition which is generally a more flexible alternative to inheritance.<br>
