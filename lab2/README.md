@@ -27,8 +27,7 @@ Some examples of this kind of design patterns are:<br>
 - Factory Method
 - Abstract Factory
 <br>
-##
-**Design patterns** are typical solutions to common problems
+*Design patterns* are typical solutions to common problems
 in software design. Each pattern is like a blueprint
 that can be customized to solve a particular
 design problem.They define a common language that helps developer teams
