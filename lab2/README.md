@@ -38,13 +38,13 @@ In software engineering, the **Structural Design Patterns** are concerned with h
  Structural class patterns use inheritance to create a hierarchy of classes/abstractions,
  but the structural object patterns use composition which is generally a more flexible alternative to inheritance.<br>
 Some examples of from this category of design patterns are:<br>
-- Adapter<br>
-- Bridge<br>
-- Composite<br>
-- Decorator<br>
-- Facade<br>
-- Flyweight<br>
-- Proxy<br>
+- Adapter
+- Bridge
+- Composite
+- Decorator
+- Facade
+- Flyweight
+- Proxy
 
 ## Implementation:<br>
 Thre structural design patterns are implemented in this project: Decorator, Facade and Adapter with 
